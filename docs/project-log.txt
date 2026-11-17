@@ -1,0 +1,27 @@
+Project: DNS Sinkhole and Network Security Monitoring Lab
+
+Objective:
+Build a DNS sinkhole in a controlled virtual environment
+to learn DNS filtering, query logging, and basic network security.
+
+Planned Tools:
+- VirtualBox
+- Ubuntu Server
+- Pi-hole
+- DNS utilities
+
+Progress Log:
+
+Stage 1: Server Setup
+
+- Created the Ubuntu virtual machine in VirtualBox.
+- Installed Ubuntu and updated the system packages.
+- Configured the private lab interface with IP address 192.168.50.10.
+- Installed Pi-hole.
+- Verified that Pi-hole was running and DNS port 53 was listening.
+- Accessed the Pi-hole administration dashboard successfully.
+
+Status: Server setup and initial verification completed.
+
+Next stage: Create a client virtual machine and test DNS
+resolution and domain blocking through Pi-hole.
