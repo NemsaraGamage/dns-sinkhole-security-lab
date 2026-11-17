@@ -6,6 +6,8 @@ The objective of this stage was to install Pi-hole on an Ubuntu virtual machine 
 
 This document records the environment, installation, network configuration, and initial verification. Detailed interpretation of the DNS filtering experiments is provided separately in `Pihole-testing-analysis.md`.
 
+**Note: All screenshots are located in level-1-foundation in the screenshots folder**
+
 ## 2. Environment
 
 | Component | Configuration |
